@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LifecycleApp</string>
+
+    <string name="contact_name">Karim Yasser</string>
+    <string name="contact_notes_hint">Add notes about this contact…</string>
+    <string name="save_contact_button">Save Contact</string>
+    <string name="contact_image_description">Contact profile photo</string>
+</resources>
